@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+uipyleaflet>=0.14.0
+ipywidgets>=7.7.1
+>>>>>>> b0b2eb4c10ccc44dfbbf5ba16368a1ee183d87d8
 matplotlib>=3.7.0
 numpy>=1.24.2
 opencv-python>=4.1.2
@@ -10,4 +15,9 @@ scikit-learn
 seaborn>=0.12.2
 sqlalchemy>=2.0.38
 sympy>=1.10.1
+<<<<<<< HEAD
 xgboost
+=======
+xgboost
+gunicorn
+>>>>>>> b0b2eb4c10ccc44dfbbf5ba16368a1ee183d87d8
